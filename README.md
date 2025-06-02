@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="assets/banner.png" alt="Banner Andrel Carvalho" />
+
 <h2 align="center">Hello World, I'm Andrel 👋 Be very welcome!</h2>
 
 ###
