@@ -7,12 +7,22 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvendo projetos com React, Node.js e TailwindCSS
-- 📚 Estudando Angular e ADVPL com PO-UI para sistemas TOTVS
-- 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX
-- 🔗 Alguns projetos publicados no meu [portfólio](https://petshop-sand-delta.vercel.app)
-- 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🚀 Desenvolvendo projetos com React, Node.js e TailwindCSS  
+- 📚 Estudando Angular e ADVPL com PO-UI para sistemas TOTVS  
+- 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX  
+- 🔗 Alguns projetos publicados no meu [portfólio](https://petshop-sand-delta.vercel.app)  
+- 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais  
+
+---
+
+## 🎮 Pac-Man Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo pacman" src="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
