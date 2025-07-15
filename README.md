@@ -2,15 +2,15 @@
 
 <p align="left">
   Desenvolvedor Fullstack Web em formação, focado em transformar aprendizado em projetos reais. <br>
-  Tenho dedicado meus estudos a <strong>React</strong>, <strong>TypeScript</strong> e <strong>TailwindCSS</strong> no front-end, enquanto exploro <strong>Node.js</strong>, <strong>ADVPL</strong> e <strong>Angular</strong> no back-end e sistemas corporativos.
+  Tenho dedicado meus estudos a <strong>React 19</strong>, <strong>Next.js 15</strong> com <strong>App Router</strong>, <strong>Server Components</strong>, <strong>Server Actions</strong> e <strong>TailwindCSS</strong>, além de <strong>TypeScript</strong> e <strong>NestJS</strong> para construção de APIs robustas.
 </p>
 
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🚀 Desenvolvendo projetos com React, Node.js e TailwindCSS  
-- 📚 Estudando Angular e ADVPL com PO-UI para sistemas TOTVS  
-- 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX  
+- 🚀 Desenvolvendo projetos com React 19, Next.js 15 (App Router, Server Components e Server Actions)  
+- ⚙️ Trabalhando com Tailwind CSS, TypeScript, REST APIs e NestJS  
+- 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX e performance  
 - 🔗 Alguns projetos publicados no meu [portfólio](https://petshop-sand-delta.vercel.app)  
 - 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais  
 
@@ -49,7 +49,7 @@
 
 ## 💻 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,angular,tailwind,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,nodejs,tailwind,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
