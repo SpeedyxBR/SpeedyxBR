@@ -19,10 +19,9 @@
 ## 🎮 Pac-Man Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph.svg">
   <img alt="Gráfico de contribuição estilo Pac-Man" src="https://raw.githubusercontent.com/speedyxbr/speedyxbr/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 ---
