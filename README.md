@@ -60,10 +60,10 @@
 ## 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:andrel.cilva@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/andrel-carvalho/">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
