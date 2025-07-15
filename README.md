@@ -2,14 +2,15 @@
 
 <p align="left">
   Desenvolvedor Fullstack Web em formação, focado em transformar aprendizado em projetos reais. <br>
-  Tenho dedicado meus estudos a <strong>React</strong>, <strong>TypeScript</strong> e <strong>TailwindCSS</strong> no front-end, enquanto exploro <strong>Node.js</strong>, <strong>ADVPL</strong> e <strong>Angular</strong> no back-end e sistemas corporativos. 
+  Tenho dedicado meus estudos a <strong>React</strong>, <strong>TypeScript</strong> e <strong>TailwindCSS</strong> no front-end, enquanto avanço com <strong>Next.js 15</strong> e <strong>NestJS</strong> para construir aplicações fullstack modernas e performáticas.
 </p>
 
 ## Sobre mim
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvendo projetos com React, Node.js e TailwindCSS
-- 📚 Aprendendo Angular e ADVPL com PO-UI para sistemas TOTVS
+- 🚀 Desenvolvendo projetos com React, TypeScript, Tailwind e SCSS
+- 📚 Aprendendo <strong>Next.js 15</strong> com App Router, Server Actions e Server Components
+- 🔧 Construindo APIs REST com <strong>NestJS</strong> e aplicando arquitetura limpa no back-end
 - 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX
 - 🔗 Alguns projetos publicados no meu [portfólio](https://petshop-sand-delta.vercel.app)
 - 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais
@@ -33,7 +34,7 @@
 
 ---
 
-## 🧠 Meus estudos
+## 📚 Meus estudos
 
 Organizo meus aprendizados através de projetos públicos no GitHub, documentando desafios resolvidos e construções reais.  
 Gosto de aprender aplicando e vejo no código uma forma de evoluir e também compartilhar com outros devs iniciantes.
@@ -44,7 +45,7 @@ Gosto de aprender aplicando e vejo no código uma forma de evoluir e também com
 
 ## 💻 Tecnologias e linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,angular,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,react,nextjs,nestjs,tailwind)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
