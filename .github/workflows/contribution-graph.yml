@@ -16,7 +16,7 @@ jobs:
       - name: Generate SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: SpeedyxBR
+          github_user_name: speedyxbr
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
