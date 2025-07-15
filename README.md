@@ -2,26 +2,17 @@
 
 <p align="left">
   Desenvolvedor Fullstack Web em formação, focado em transformar aprendizado em projetos reais. <br>
-  Tenho dedicado meus estudos a <strong>React</strong>, <strong>TypeScript</strong> e <strong>TailwindCSS</strong> no front-end, enquanto avanço com <strong>Next.js 15</strong> e <strong>NestJS</strong> para construir aplicações fullstack modernas e performáticas.
+  Tenho dedicado meus estudos a <strong>React</strong>, <strong>TypeScript</strong> e <strong>TailwindCSS</strong> no front-end, enquanto exploro <strong>Node.js</strong>, <strong>ADVPL</strong> e <strong>Angular</strong> no back-end e sistemas corporativos.
 </p>
 
 ## Sobre mim
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvendo projetos com React, TypeScript, Tailwind e SCSS
-- 📚 Aprendendo <strong>Next.js 15</strong> com App Router, Server Actions e Server Components
-- 🔧 Construindo APIs REST com <strong>NestJS</strong> e aplicando arquitetura limpa no back-end
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🚀 Desenvolvendo projetos com React, Node.js e TailwindCSS
+- 📚 Estudando Angular e ADVPL com PO-UI para sistemas TOTVS
 - 🧠 Aprofundando boas práticas de desenvolvimento com foco em UI/UX
 - 🔗 Alguns projetos publicados no meu [portfólio](https://petshop-sand-delta.vercel.app)
 - 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -34,18 +25,21 @@
 
 ---
 
-## 📚 Meus estudos
+## 📈 Atividade recente
 
-Organizo meus aprendizados através de projetos públicos no GitHub, documentando desafios resolvidos e construções reais.  
-Gosto de aprender aplicando e vejo no código uma forma de evoluir e também compartilhar com outros devs iniciantes.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=speedyxbr&bg_color=0d1117&color=ff6ec7&line=ff3caa&point=ffffff&area=true&hide_border=true" />
+</p>
 
-> Meu foco é criar soluções úteis, com interfaces agradáveis, boa estrutura e código limpo 🧼
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=speedyxbr&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+</p>
 
 ---
 
-## 💻 Tecnologias e linguagens
+## 💻 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,react,nextjs,nestjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,angular,tailwind,postgres,mysql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
