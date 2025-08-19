@@ -26,7 +26,7 @@
 
 ### 💻 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,nodejs,tailwind,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
