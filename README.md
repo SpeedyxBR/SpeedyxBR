@@ -25,7 +25,7 @@ My skills include React, Next.js, TypeScript, Node.js, and React Native. For the
 ---
 ### 💻 Technologies and Tools  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,nodejs,tailwind,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres" />
 </a>
 
 ### 🛠️ Development Tools  
