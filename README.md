@@ -11,30 +11,30 @@
 
 ---
 
-### Sobre mim
+### About me
 
 <p align="left">
 Full Stack Developer, focused on transforming learning into real-world projects. <br>
-My skills include React, Next.js, Node.js, and React Native. For the user interface and experience, I use Shadcn UI and Tailwind CSS.
+My skills include React, Next.js, TypeScript, Node.js, and React Native. For the user interface and experience, I use Shadcn UI, Lucide-Icons and Tailwind CSS.
 </p>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvendo projetos com as últimas tecnologias
-- 📌 Buscando oportunidades para crescer profissionalmente e contribuir com soluções reais
+- 🎓 Systems Analysis and Development Student
+- 🚀 Developing projects with the latest technologies
+- 📌 Seeking opportunities to grow professionally and contribute real solutions
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development Tools
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Let's connect?
 
 <p align="left">
   <a href="mailto:andrel.cilva@gmail.com">
