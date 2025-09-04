@@ -23,7 +23,6 @@ My skills include React, Next.js, TypeScript, Node.js, and React Native. For the
 - 📌 Seeking opportunities to grow professionally and contribute real solutions
 
 ---
-
 ### 💻 Technologies and Tools  
 
 <p align="center">
@@ -34,7 +33,11 @@ My skills include React, Next.js, TypeScript, Node.js, and React Native. For the
 
 ### 🛠️ Development Tools  
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,stackoverflow)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,stackoverflow" />
+  </a>
+</p>
 
 ---
 
