@@ -14,8 +14,8 @@
 ### Sobre mim
 
 <p align="left">
-  Desenvolvedor Full Stack, focado em transformar aprendizado em projetos reais. <br>
-  Tenho dedicado meus estudos a <strong>React 19</strong>, <strong>Next.js 15</strong> com <strong>App Router</strong>, <strong>Server Components</strong>, <strong>Server Actions</strong> e <strong>TailwindCSS</strong>, além de <strong>TypeScript</strong> para construção de APIs robustas.
+Full Stack Developer, focused on transforming learning into real-world projects. <br>
+My skills include React, Next.js, Node.js, and React Native. For the user interface and experience, I use Shadcn UI and Tailwind CSS.
 </p>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
