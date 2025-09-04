@@ -32,7 +32,7 @@
 
 ### 🚀 Projects
 
-> "Transforming ideas into real digital solutions."
+ "Transforming ideas into real digital solutions."
 
 <p align="center">
   <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
@@ -42,6 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
   </a>
 </p>
+
   ---
   
   ### 💻 Technologies and Tools  
