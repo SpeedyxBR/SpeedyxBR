@@ -68,14 +68,19 @@
 
   ### 📬 Let's connect?
 
-  <p align="center">
-    <a href="mailto:andrel.cilva@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/andrel-carvalho/">
-      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/andrel-carvalho" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=".dreel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="andrel.cilva@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=speedyxbr.speedyxbr&left_color=darkviolet&right_color=orchid" width="80" />
