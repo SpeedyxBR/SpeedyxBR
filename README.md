@@ -52,7 +52,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres" />
   </a>
-
+  
+  ---
   ### 🛠️ Development Tools  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,figma,postman,npm,yarn,stackoverflow" />
