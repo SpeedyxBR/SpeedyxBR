@@ -29,9 +29,6 @@
   </p>
 
   ---
-### 🚀 Projects
-
-> "Transforming ideas into real digital solutions."
 
 ### 🚀 Projects
 
