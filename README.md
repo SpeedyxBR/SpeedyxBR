@@ -21,7 +21,9 @@
 
   <p align="center">
     - 🎓 Systems Analysis and Development Student
+    
     - 🚀 Developing projects with the latest technologies
+    
     - 📌 Seeking opportunities to grow professionally and contribute real solutions
   </p>
 
