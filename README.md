@@ -19,9 +19,10 @@
     My skills include React, Next.js, TypeScript, Node.js, and React Native. For the user interface and experience, I use Shadcn UI, Lucide-Icons and Tailwind CSS.
   </p>
 
-  <p align="center">
-    - 🎓 Systems Analysis and Development Student
-    
+  <p align="center"
+
+     - 🎓 Systems Analysis and Development Student
+     
     - 🚀 Developing projects with the latest technologies
     
     - 📌 Seeking opportunities to grow professionally and contribute real solutions
