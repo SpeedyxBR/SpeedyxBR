@@ -29,6 +29,18 @@
   </p>
 
   ---
+
+### 🚀 Projects  
+
+> "Transformando ideias em soluções digitais reais."  
+
+<p align="center">
+  <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=bewear&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
+  </a>
+</p>
+
+  ---
   ### 💻 Technologies and Tools  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres" />
