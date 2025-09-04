@@ -24,24 +24,19 @@ My skills include React, Next.js, TypeScript, Node.js, and React Native. For the
 
 ---
 ### 💻 Technologies and Tools  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,nodejs,tailwind,postgres" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,nodejs,tailwind,postgres" />
+</a>
 
 ### 🛠️ Development Tools  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,stackoverflow" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,stackoverflow" />
+</a>
 
 ---
 
 ### 📬 Let's connect?
+
 
 <p align="left">
   <a href="mailto:andrel.cilva@gmail.com">
