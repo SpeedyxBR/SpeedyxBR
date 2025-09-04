@@ -82,9 +82,11 @@
 
 ###
 
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=speedyxbr.speedyxbr&left_color=darkviolet&right_color=orchid" width="80" />
-  </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SpeedyxBR.SpeedyxBR&left_color=blue"  />
+</div>
+
+###
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
 </div>
