@@ -32,7 +32,7 @@
 
 ### 🚀 Projects  
 
-> "Transformando ideias em soluções digitais reais."  
+> "Transforming ideas into real digital solutions."
 
 <p align="center">
   <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
