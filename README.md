@@ -47,6 +47,7 @@
 <p align="center">
   Um jogo de cartas web do Yu-Gi-Oh! feito com JavaScript.
 </p>
+
   ---
   
   ### 💻 Technologies and Tools  
