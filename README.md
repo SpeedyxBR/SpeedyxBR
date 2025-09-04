@@ -29,8 +29,7 @@
   </p>
 
   ---
-
-### 🚀 Projects  
+### 🚀 Projects
 
 > "Transforming ideas into real digital solutions."
 
@@ -38,11 +37,16 @@
   <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=bewear&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
   </a>
+  <p align="center">
+    Um e-commerce moderno e responsivo, focado em alta performance e experiência do usuário.
+  </p>
   <a href="https://github.com/SpeedyxBR/js-yugioh-assets" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
   </a>
 </p>
-
+<p align="center">
+  Um jogo de cartas web do Yu-Gi-Oh! feito com JavaScript.
+</p>
   ---
   ### 💻 Technologies and Tools  
   <a href="https://skillicons.dev">
