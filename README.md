@@ -5,14 +5,13 @@
   
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedyxbr&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Andrel Carvalho github stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SpeedyxBR&theme=transparent&card_width=400" alt="GitHub Streak" /></a>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedyxbr&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
   </div>
 
   [![Andrel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=speedyxbr&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/speedyxbr/github-readme-activity-graph)
 
-  <br>
-  <img src="https://streak-stats.demolab.com?user=SpeedyxBR&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&currstreak_color=1e90ff&ring_color=1e90ff&fire_color=1e90ff&side_color=c9d1d9&dates_color=c9d1d9&side_num_color=c9d1d9&date_format=%5BY%5D%20M%20D" alt="streak graph" />
-  <br>
+
 
   ---
 
