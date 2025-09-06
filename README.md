@@ -5,7 +5,7 @@
   
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedyxbr&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Andrel Carvalho github stats" />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SpeedyxBR&theme=transparent&card_width=50&card_height=50" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SpeedyxBR&theme=transparent&hide_border=true&border_radius=0&card_width=10&card_height=10" alt="GitHub Streak" /></a>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedyxbr&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
   </div>
 
