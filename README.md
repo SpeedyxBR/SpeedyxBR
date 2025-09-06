@@ -19,47 +19,57 @@
     My skills include React, Next.js, TypeScript, Node.js, and React Native. For the user interface and experience, I use Shadcn UI, Lucide-Icons and Tailwind CSS.
   </p>
 
-  <p align="center"
-
-     - 🎓 Systems Analysis and Development Student
-     
+  <p align="center">
+    - 🎓 Systems Analysis and Development Student
     - 🚀 Developing projects with the latest technologies
-    
     - 📌 Seeking opportunities to grow professionally and contribute real solutions
   </p>
 
   ---
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph.svg">
-</picture>
-
-  ---
-### 🚀 Projects
-
- "Transforming ideas into real digital solutions."
-
-<p align="center">
-  <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=bewear&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
-  </a>
-  <a href="https://github.com/SpeedyxBR/js-yugioh-assets" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
-  </a>
-</p>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SpeedyxBR/SpeedyxBR/output/pacman-contribution-graph.svg">
+  </picture>
 
   ---
   
-  ### 💻 Technologies and Tools  
+  ### 🚀 Projects
+
+  "Transforming ideas into real digital solutions."
+
+  <p align="center">
+    <a href="https://github.com/SpeedyxBR/bewear" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=bewear&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
+    </a>
+    <a href="https://github.com/SpeedyxBR/js-yugioh-assets" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
+    </a>
+  </p>
+
+  ---
+  
+  ### 💻 Front-end
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
   </a>
   
-  ---
+  ### ⚙️ Back-end
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  ### 💾 Databases & ORMs
   
-  ### 🛠️ Development Tools  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,drizzle" />
+  </a>
+  
+  ### 🛠️ Tools
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,figma,postman,npm,yarn,stackoverflow" />
   </a>
@@ -68,24 +78,21 @@
 
   ### 📬 Let's connect?
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrel-carvalho" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href=".dreel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="andrel.cilva@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/andrel-carvalho" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href=".dreel" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    </a>
+    <a href="andrel.cilva@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+  </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SpeedyxBR.SpeedyxBR&left_color=blue"  />
-</div>
-
-###
-
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SpeedyxBR.SpeedyxBR&left_color=blue" />
+  </div>
+  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
 </div>
