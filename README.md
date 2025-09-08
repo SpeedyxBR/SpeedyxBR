@@ -59,7 +59,7 @@
   ### ⚙️ Back-end
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
   </a>
 
   ### 💾 Databases & ORMs
@@ -71,7 +71,7 @@
   ### 🛠️ Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,docker,git,github,vscode,figma,postman,npm,yarn,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,figma,postman,npm,yarn,stackoverflow" />
   </a>
 
   ---
