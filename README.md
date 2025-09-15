@@ -45,9 +45,9 @@
     </a>
     <a href="https://github.com/SpeedyxBR/js-yugioh-assets" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=js-yugioh-assets&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
-   </a>
+  </a>
   <a href="https://github.com/SpeedyxBR/fsw-barber" target="_blank">
-    <img src="LINK_RAW_DA_SUA_IMAGEM_AQUI" alt="Capa do projeto FSW Barber" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpeedyxBR&repo=fsw-barber&theme=react&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&hide_border=true" />
   </a>
   </p>
 
