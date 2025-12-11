@@ -4,8 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Andrel+Carvalho;Full+Stack+Developer;Welcome!+%3A%29)](https://git.io/typing-svg)
   
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedyxbr&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Andrel Carvalho github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedyxbr&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
+    <img width="49%" height="194px" src="https://github-readme-stats.vercel.app/api?username=speedyxbr&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Andrel Carvalho github stats" />
+    <img width="41%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedyxbr&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
   </div>
 
   [![Andrel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SpeedyxBR&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/SpeedyxBR/github-readme-activity-graph)
